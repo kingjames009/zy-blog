@@ -1,0 +1,25 @@
+mobile-blog/
+├── backend/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   │   └── com/
+│   │   │   │       └── zhuoyue/
+│   │   │   │           ├── controller/
+│   │   │   │           ├── service/
+│   │   │   │           ├── model/
+│   │   │   │           ├── repository/
+│   │   │   │           ├── config/
+│   │   │   │           └── util/
+│   │   │   └── resources/
+│   │   │       └── application.yml
+│   │   └── test/
+│   └── pom.xml
+└── frontend/
+    ├── src/
+    │   ├── pages/
+    │   ├── components/
+    │   ├── static/
+    │   └── store/
+    ├── package.json
+    └── manifest.json 
